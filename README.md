@@ -34,3 +34,16 @@ Your manager gives you a giant Excel file with past order data and says:
 A publicly available data set was used for this scenario:
 
 [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+## Files Included
+
+-Excel workbook with cleaned dataset, Pivot tables, and an interactive dashboard
+-A screenshot of the dashboard
+
+## Key findings
+
+- The West region outperformed all others in total sales
+- Although ofice Supplies sold in high volume, Technology contributed the most to overall profit
+- Top selling product -> 'Canon ImageCLASS 2200'
+- A clear trend shows sales spiking towards the end of every year -> likely driven by holiday spending and promotions
+- There was also a steady growth in sales overall year after year
